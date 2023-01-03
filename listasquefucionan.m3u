@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La Red
+https://d2ab26kihxq8p0.cloudfront.net:443/hls/live_720p30.m3u8
+
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://www.m3u.cl/logo/1054_T13.png", T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png", Mega | CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://www.m3u.cl/logo/54_ UCV.png", UCV | CL
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png", 13 Entretencion | CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png", 13 Prime | CL
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries | CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+
+#EXTINF:-1, TVU Concepción 
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:-1, EL PINGUINO TV
+ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV * | CL
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La Red
+https://www.dailymotion.com/video/x7wijay
